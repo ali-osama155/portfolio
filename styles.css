@@ -1,0 +1,8 @@
+/* Custom styles to complement Tailwind */
+nav a {
+    transition: color 0.3s ease;
+}
+
+section {
+    scroll-margin-top: 80px; /* Adjust for fixed nav height */
+}
